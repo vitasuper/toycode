@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-。
+
+# author: vitasuper
+
 import os
 import sys
 
